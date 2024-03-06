@@ -25,7 +25,7 @@ The Shape Calculator is a Java program designed to calculate the area, perimeter
 
 ### Shape.java
 
-- Abstract class with methods for displaying the selected shape and abstract methods for area and perimeter calculation.
+- Abstract class with methods for displaying the selected shape - `showShape()` and abstract methods for area and perimeter calculation - `calculateArea()` and `calculatePerimeter()`.
 
 ### Volume.java
 
